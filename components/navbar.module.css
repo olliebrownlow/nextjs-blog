@@ -1,0 +1,14 @@
+.navLinks {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+  font-size: 1.5rem;
+  line-height: 1.3;
+  font-weight: 400;
+  letter-spacing: -0.05rem;
+  margin: 1rem 0;
+}
+
+.navSpacing {
+  margin: 0 0.25rem;
+}
